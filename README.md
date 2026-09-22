@@ -44,15 +44,6 @@ Fraud / Normal Prediction
         ↓
 Streamlit Application
 
-CREDIT-CARD-FRAUD-DETECTION/
-│
-├── app.py
-├── train.py
-├── fraud_model.pkl
-├── fraud_features.pkl
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 
 Data Source link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
